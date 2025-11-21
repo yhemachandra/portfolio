@@ -1,6 +1,6 @@
 # 🧑‍💻 Personal Portfolio Website – Hema Chandra
 
-Live Site: https://hemayportfolio.netlify.app
+Live Site: https://portfolio-yhema.netlify.app/
 
 ## 📌 Overview
 This is a responsive personal portfolio website built using HTML, CSS, and JavaScript. It showcases my professional background, skills, projects, and contact information in a clean, modern, and interactive layout.
